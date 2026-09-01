@@ -4,7 +4,7 @@ Machine learning project that predicts a person's **obesity level** from anthrop
 measurements and lifestyle habits, and ships the trained model as an interactive
 **Streamlit** web app.
 
-> BNCC RnD Final Project — supervised multi-class classification.
+> BNCC Machine Learning Final Project — supervised multi-class classification.
 
 ---
 
